@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/space/static/js/main.bc4320e3.js",
+    "static/js/787.0622db32.chunk.js": "/space/static/js/787.0622db32.chunk.js",
+    "index.html": "/space/index.html",
+    "main.bc4320e3.js.map": "/space/static/js/main.bc4320e3.js.map",
+    "787.0622db32.chunk.js.map": "/space/static/js/787.0622db32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc4320e3.js"
+  ]
+}
